@@ -52,7 +52,7 @@
     </section>
 
     <footer>
-        &copy; 2024 Example Webpage. All rights reserved.
+        &copy; All rights reserved.
     </footer>
 
 </body>
